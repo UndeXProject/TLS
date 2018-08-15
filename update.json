@@ -1,0 +1,25 @@
+{
+  "update": {
+    "version": "0.0.1 Alpha",
+    "builddate": "15-08-2018",
+    "loaddata": {
+      "url": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1NUxTTMmTC-AsP3hfQz-a9wFWl3v9SM78",
+      "filename": "update.zip"
+    },
+    "summ": {
+      "MD5": "506CE611D80239E533510A49B84E568E",
+      "CRC32": "2A76CD78",
+      "SHA1": "D9A6D91F76C6E243E9C9E7D8BBFFB1F5F3FAF6CC"
+    },
+    "filelist": [
+      {
+        "name": "php5ts.dll",
+        "summ": {
+          "MD5": "C9AFF68F6673FAE7580527E8C76805B6",
+          "CRC32": "86B9F7AB",
+          "SHA1": "BB62CC1DB82CFE07A8C08A36446569DFC9C76D10"
+        }
+      }
+    ]
+  }
+}
