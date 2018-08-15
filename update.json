@@ -7,8 +7,8 @@
       "filename": "update.zip"
     },
     "summ": {
-      "MD5": "506CE611D80239E533510A49B84E568E",
-      "SHA1": "D9A6D91F76C6E243E9C9E7D8BBFFB1F5F3FAF6CC"
+      "MD5": "F232D0108A07D5B9FD95625557BF9F54",
+      "SHA1": "2E923CCDAB93B6D020EFC1435F3E6C3234BB73E9"
     },
     "filelist": [
       {
@@ -16,6 +16,13 @@
         "summ": {
           "MD5": "C9AFF68F6673FAE7580527E8C76805B6",
           "SHA1": "BB62CC1DB82CFE07A8C08A36446569DFC9C76D10"
+        }
+      },
+      {
+        "name": "project.exe",
+        "summ": {
+          "MD5": "A8195BF04FD955BF610FA198A7C4A7F7",
+          "SHA1": "FFED29286BD7F84ED2EE81FC5B06E5AE8E81B258"
         }
       }
     ]
